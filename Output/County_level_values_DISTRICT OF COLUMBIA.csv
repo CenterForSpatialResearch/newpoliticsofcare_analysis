@@ -1,2 +1,2 @@
-County_FIPS,Medicaid,SVI,YPLL,Unemp,Covid_last_14,Cum_Covid_death_in_June,Cum_Covid_death_in_July,Cum_Covid_death_in_August
-11001,572.0936840924259,1.0,8111.0,9.0,81.75711194773213,4169.329322464502,6681.695616996977,9302.315695806867
+County_FIPS,Medicaid,SVI,YPLL,Unemp,Covid_last_14,Cum_Covid_death_in_July,Cum_Covid_death_in_August,Cum_Covid_death_in_September
+11001,31465.15262508342,1.0,8111.0,9.0,75.94768111609085,6681.695616996977,9302.315695806867,11925.911336750036
